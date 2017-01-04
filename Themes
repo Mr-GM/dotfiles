@@ -1,0 +1,5 @@
+# gtk theme and icons
+sudo pacman -S arch-gtk-them arch-icon-theme
+
+# firefox theme
+https://github.com/horst3180/arc-firefox-theme/releases
